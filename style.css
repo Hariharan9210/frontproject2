@@ -350,6 +350,39 @@ h6{
 
     
 }
+.box1:hover{
+    transform:scale(1.05);
+    transition-duration: 0.3s;
+}
+.box2:hover{
+    transform:scale(1.05);
+    transition-duration: 0.3s;
+}
+.box3:hover{
+    transform:scale(1.05);
+    transition-duration: 0.3s;
+}
+.box4:hover{
+    transform:scale(1.05);
+    transition-duration: 0.3s;
+}
+.box5:hover{
+    transform:scale(1.05);
+    transition-duration: 0.3s;
+    overflow: hidden;
+}
+.box6:hover{
+    transform:scale(1.05);
+    transition-duration: 0.3s;
+}
+.box7:hover{
+    transform:scale(1.05);
+    transition-duration: 0.3s;
+}
+.box8:hover{
+    transform:scale(1.05);
+    transition-duration: 0.3s;
+}
 /*@media (max-width:545px){
     .text3{
         position: relative;
@@ -357,3 +390,4 @@ h6{
     }
     
 }*/
+
