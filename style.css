@@ -23,7 +23,7 @@
     display: flex;
     background-color: hsl(256, 67%, 59%);
     flex-direction: column;
-    
+    transition: background 0.3s, transform 0.3s;
     color: aliceblue;
     border-radius: 20px;
 }
@@ -36,6 +36,7 @@
     justify-content: center;
     align-items: center;
     justify-items: start;
+    transition: background 0.3s, transform 0.3s;
 
     
 }
@@ -43,7 +44,7 @@
     grid-row: span 2;
     background-color:  hsl(39, 100%, 71%);
     border-radius: 20px;
-    
+    transition: background 0.3s, transform 0.3s;
     display: flex;
     flex-direction: column;
 }
@@ -53,7 +54,7 @@
     border-radius: 20px;
     display: flex;
     flex-direction: column;
-    
+    transition: background 0.3s, transform 0.3s;
 }
 .box8{
     grid-row: span 3;
@@ -62,6 +63,7 @@
     background-color: hsl(256, 67%, 59%);
     display: inline-flex;
     column-gap: 50px;
+    transition: background 0.3s, transform 0.3s;
 }
 
 .box3{
@@ -70,6 +72,7 @@
     border-radius: 20px;
     display: flex;
     flex-direction: column;
+    transition: background 0.3s, transform 0.3s;
 }
 .box4{
     grid-row: span 2;
@@ -78,6 +81,7 @@
     border-radius: 20px;
     display: flex;
     flex-direction: column;
+    transition: background 0.3s, transform 0.3s;
 }
 .box7{
     grid-row: span 2;
@@ -85,6 +89,7 @@
     background-color: rgb(238, 235, 231);
     display: inline-flex;
     flex-direction: column;
+    transition: background 0.3s, transform 0.3s;
 }
 .text1{
   font-size: 12px;
@@ -390,4 +395,5 @@ h6{
     }
     
 }*/
+
 
